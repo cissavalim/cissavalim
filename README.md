@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **tests automation, quality processes**
 
-- 📫 How to reach me **ceciliavalim@outlook.com.br**
+- 📫 How to reach me: **ceciliavalim@outlook.com.br**
 
-- ⚡ Fun fact **I love making people laugh**
+- ⚡ Fun fact: **I love making people laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
