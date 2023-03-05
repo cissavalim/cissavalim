@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cecilia</h1>
-<h3 align="center">A passionate quality analyst from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **tests automation, quality processes**
+- 🌱 I’m currently learning **Java, Kotlin, Spring...**
 
 - 📫 How to reach me: **ceciliavalim@outlook.com.br**
 
